@@ -2494,25 +2494,6 @@ figure figcaption {
 	margin-bottom: auto;
 }
 
-/* BTC */
-.btc-address-container {
-	border: 1px solid #ccc;
-	border-radius: 5px;
-	padding: 10px;
-	margin: 3px;
-	width: fit-content;
-	/* 让框的宽度适应内容 */
-	max-width: 80vw;
-	/* 设置最大宽度，超过后自动换行 */
-	word-wrap: break-word;
-	cursor: pointer;
-}
-
-.btc-address {
-	color: #000;
-	font-size: 18px;
-}
-
 .copy-button {
 	padding: 5px 10px;
 	margin-left: 83%;
