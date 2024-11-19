@@ -11,7 +11,7 @@
 
 ### Fork说明
 
-项目Fork自https://github.com/realzsan3/alms，在原项目的基础上做了以下调整：
+项目Fork自[https://github.com/realzsan3/alms](https://github.com/realzsan3/alms)，在原项目的基础上做了以下调整：
 
 1. 移除`leancloud`依赖，改为使用`express`作为服务器（自己有服务器的情况下，没必要使用第三方服务）
 2. 移除BTC支持（大部分人用不上，干脆删掉）
@@ -43,7 +43,7 @@ npm run start
 
 支付宝替换：`qrcode`后面的值改为自己的收款码链接
 
-`alipays://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx17568wleuqk0ebdb8ia3`
+`alipays://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx10077q8ap03alafv4b96`
 
 ## Docker部署
 
